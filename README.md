@@ -6,8 +6,7 @@ Computer Science Student
 - Engineeing at [<img width="70" height="40" src="https://www.rajalakshmi.org/image/logo2.png">](https://www.rajalakshmi.org/),
 - 👯 I’m looking to collaborate on: Machine Learning and Web Development projects
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kharthik-j-a156332b3/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/
-ig_kharthik/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kharthik-j-a156332b3/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ig_kharthik/)
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
