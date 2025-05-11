@@ -7,20 +7,7 @@ Computer Science Student
 - 👯 I’m looking to collaborate on: Machine Learning and Web Development projects
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kharthik-j-a156332b3/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ig_kharthik/)
-👨‍💻 CSE Student | Code with curiosity, compile with purpose
 
-
-class Developer:
-    def __init__(self):
-        self.role = "Computer Science Student 👨‍🎓"
-        self.stack = ["Python 🐍", "Java ☕", "HTML/CSS 🌐"]
-        self.focus = ["Machine Learning 🤖", "Web Dev 🛠️", "Problem Solving 🧠"]
-
-   def journey(self):
-        return "Learning | Building | Growing"
-
-me = Developer()
-print(f"Hi, I'm Kharthik J — {me.journey()} 🚀")
 
 
 ### I code in
