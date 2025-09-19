@@ -3,7 +3,7 @@
 Computer Science Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m currently learning Data Structure and Algorithm (DSA) using Java 
-- Engineeing at [<img width="100" height="40" src="https://www.rajalakshmi.org/image/logo2.png">](https://www.rajalakshmi.org/)
+- Engineeing at [<img width="100" height="40" src="https://www.rajalakshmi.org/_next/image?url=%2Flogo.svg&w=384&q=75">](https://www.rajalakshmi.org/)
 - 👯 I’m looking to collaborate on: Machine Learning and Web Development projects
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kharthik-j-a156332b3/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ig_kharthik/)
